@@ -1,0 +1,4 @@
+#Fri Jun 18 20:24:54 ICT 2021
+base.0=C\:\\SigmaIntraMedia\\alfabetdigital\\mobileapp\\New folder (2)\\sigmaintramedia\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
